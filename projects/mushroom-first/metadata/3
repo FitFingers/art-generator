@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE3.png",
+    "tokenId": 3,
+    "name": "ADD_PROJECT_NAME_HERE 3",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Color",
+            "value": "red"
+        },
+        {
+            "trait_type": "Spots",
+            "value": "white"
+        },
+        {
+            "trait_type": "Floor",
+            "value": "sand"
+        },
+        {
+            "trait_type": "Toxicity",
+            "value": "healthy"
+        }
+    ]
+}

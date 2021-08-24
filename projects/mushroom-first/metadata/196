@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE196.png",
+    "tokenId": 196,
+    "name": "ADD_PROJECT_NAME_HERE 196",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "green"
+        },
+        {
+            "trait_type": "Color",
+            "value": "red"
+        },
+        {
+            "trait_type": "Spots",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Floor",
+            "value": "snow"
+        },
+        {
+            "trait_type": "Toxicity",
+            "value": "toxic"
+        }
+    ]
+}

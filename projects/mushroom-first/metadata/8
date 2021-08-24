@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE8.png",
+    "tokenId": 8,
+    "name": "ADD_PROJECT_NAME_HERE 8",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Color",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Spots",
+            "value": "black"
+        },
+        {
+            "trait_type": "Floor",
+            "value": "grass"
+        },
+        {
+            "trait_type": "Toxicity",
+            "value": "healthy"
+        }
+    ]
+}

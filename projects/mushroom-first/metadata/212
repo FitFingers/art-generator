@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE212.png",
+    "tokenId": 212,
+    "name": "ADD_PROJECT_NAME_HERE 212",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Color",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Spots",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Floor",
+            "value": "grass"
+        },
+        {
+            "trait_type": "Toxicity",
+            "value": "healthy"
+        }
+    ]
+}

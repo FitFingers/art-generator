@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE0.png",
+    "tokenId": 0,
+    "name": "ADD_PROJECT_NAME_HERE 0",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "gold"
+        },
+        {
+            "trait_type": "Color",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "Spots",
+            "value": "white"
+        },
+        {
+            "trait_type": "Floor",
+            "value": "sand"
+        },
+        {
+            "trait_type": "Toxicity",
+            "value": "toxic"
+        }
+    ]
+}

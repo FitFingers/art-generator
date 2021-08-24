@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE88.png",
+    "tokenId": 88,
+    "name": "ADD_PROJECT_NAME_HERE 88",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "pink"
+        },
+        {
+            "trait_type": "Color",
+            "value": "deepblue"
+        },
+        {
+            "trait_type": "Spots",
+            "value": "black"
+        },
+        {
+            "trait_type": "Floor",
+            "value": "snow"
+        },
+        {
+            "trait_type": "Toxicity",
+            "value": "healthy"
+        }
+    ]
+}

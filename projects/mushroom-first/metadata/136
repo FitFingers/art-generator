@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE136.png",
+    "tokenId": 136,
+    "name": "ADD_PROJECT_NAME_HERE 136",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "gold"
+        },
+        {
+            "trait_type": "Color",
+            "value": "deepblue"
+        },
+        {
+            "trait_type": "Spots",
+            "value": "white"
+        },
+        {
+            "trait_type": "Floor",
+            "value": "grass"
+        },
+        {
+            "trait_type": "Toxicity",
+            "value": "healthy"
+        }
+    ]
+}

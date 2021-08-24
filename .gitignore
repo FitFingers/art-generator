@@ -1,3 +1,6 @@
 # outputs
-images
-metadata
+images/*
+metadata/*
+
+# results, resources, graphics etc
+# projects

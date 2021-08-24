@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE85.png",
+    "tokenId": 85,
+    "name": "ADD_PROJECT_NAME_HERE 85",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "pink"
+        },
+        {
+            "trait_type": "Color",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "Spots",
+            "value": "white"
+        },
+        {
+            "trait_type": "Floor",
+            "value": "sand"
+        },
+        {
+            "trait_type": "Toxicity",
+            "value": "healthy"
+        }
+    ]
+}
